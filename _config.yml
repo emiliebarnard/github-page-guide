@@ -40,6 +40,8 @@ header_pages: #forcing order on nav
   - index.markdown
   - about.markdown
 
+author: testing
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
