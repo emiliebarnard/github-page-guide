@@ -17,7 +17,7 @@ A repository is a hosting location where README files as Markdown will store you
 3. Type *your_GitHub_username.github.io* under **Repository name**.
 4. Select **Public**.
 
- **Note**: A public repository is visible to anyone on the internet. Private is only visible to you and others you share with. Private repositories will impact GitHub Pages visibility as it will be unpublished and does not work with free accounts. You can change the repository from private to public anytime.
+   **Note**: A public repository is visible to anyone on the internet. Private is only visible to you and others you share with. Private repositories will impact GitHub Pages visibility as it will be unpublished and does not work with free accounts. You can change the repository from private to public anytime.
 
 5. Select **Add a README file** checkbox.
 6. Select **Create repository**.
@@ -40,6 +40,17 @@ README file is the foundation for the GitHub Pages itself. Markdown language act
 4. Select the **Preview** tab to see your work prior to publishing.
 5. Scroll to the bottom and select **Commit changes**. 
 
- **Note**: It is optional to type a message about the changes made to your documentation.
+   **Note**: It is optional to type a message about the changes made to your documentation.
 
 6. Navigate to your GitHub Pages site link to see the live changes. It may take several minutes to sync.
+
+## Insert images
+1. Navigate to **Your repositories** and select your newly-created repository.
+2. Select **Add File** for your main repository and choose **Upload files**.
+
+   **Note**: **Create new file** centers on creating a new file within the repository as a Markdown copy.
+
+3. Select an image file from your desktop to store in your repository.
+4. Select **Commit changes**.
+5. Navigate to your main repository. Right click on the image file and copy the link address.
+6. Click the **Pencil** icon to edit the README file.
