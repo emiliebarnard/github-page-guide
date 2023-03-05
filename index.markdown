@@ -54,4 +54,18 @@ README file is the foundation for the GitHub Pages itself. Markdown language act
 4. Select **Commit changes**.
 5. Navigate to your main repository. Right click on the image file and copy the link address.
 6. Click the **Pencil** icon to edit the README file.
-7. Type **!\[Name of file](Paste image file link here)**. 
+7. Type **!\[Name of file](Paste image file link here)**.
+
+   **Note**: Edit the image file link from “blob” to “raw” on the README file if the image does not render on the Pages site after committing changes in step 9.
+
+8. Select the **Preview** tab to see your work prior to publishing.
+9. Scroll to the bottom and select **Commit changes**.
+
+   **Note**: It is optional to type a message about the changes made to your documentation.
+
+10. Navigate to your GitHub Pages site link to see the live changes. It may take several minutes to sync.
+
+**Note**: To delete a file, click on the file name in your main repository and select the **Trash Can** icon next to the **Download** button. Select **Commit changes** and the file will be removed.
+
+# Additional documentation
+Refer to [GitHub Pages documentation](https://docs.github.com/en/pages) to learn more.
