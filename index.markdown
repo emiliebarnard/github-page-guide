@@ -8,7 +8,13 @@ title: Quick Start Guide
 
 **Prerequisites**: A [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) is needed before a GitHub Pages site can be created. [Basic Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) knowledge is needed for coding.
 
-TODO add navigation
+# Navigation
+- Create a GitHub repository
+- Create a GitHub Pages site
+- README file use and work portfolio content
+   - Add text documentation
+   - Insert images
+- Additional documentation
 
 # Create a GitHub repository
 A repository is a hosting location where README files as Markdown will store your content to host as a work portfolio.
@@ -54,7 +60,7 @@ README file is the foundation for the GitHub Pages itself. Markdown language act
 4. Select **Commit changes**.
 5. Navigate to your main repository. Right click on the image file and copy the link address.
 6. Click the **Pencil** icon to edit the README file.
-7. Type **!\[Name of file](Paste image file link here)**.
+7. Type *!\[Name of file](Paste image file link here)*.
 
    **Note**: Edit the image file link from “blob” to “raw” on the README file if the image does not render on the Pages site after committing changes in step 9.
 
