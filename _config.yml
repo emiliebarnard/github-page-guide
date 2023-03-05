@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 'GitHub Pages Quick Start Guide <br> For Work Portfolio Hosting'
+title: 'GitHub Pages - Quick Start Guide <br> For Work Portfolio Hosting'
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
  Learn to create a GitHub Page to host a work portfolio and feel confident and assured in showcasing your samples to future employers
