@@ -54,3 +54,4 @@ README file is the foundation for the GitHub Pages itself. Markdown language act
 4. Select **Commit changes**.
 5. Navigate to your main repository. Right click on the image file and copy the link address.
 6. Click the **Pencil** icon to edit the README file.
+7. Type **!\[Name of file](Paste image file link here)**. 
