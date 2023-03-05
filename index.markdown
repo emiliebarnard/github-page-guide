@@ -12,8 +12,8 @@ title: Quick Start Guide
 * Create a GitHub repository
 * Create a GitHub Pages site
 * README file use and work portfolio content
-  * Add text documentation
-  * Insert images
+     * Add text documentation
+     * Insert images
 * Additional documentation
 
 # Create a GitHub repository
