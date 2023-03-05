@@ -28,4 +28,18 @@ A repository is a hosting location where README files as Markdown will store you
 2. Navigate to **Code and automation** on the left and select **Pages**.
 3. Under **GitHub Pages** select **Visit Site** and you’ll be redirected to your new website.
 
-**Note**: If the Visit Site option does not appear, you will need to force a commit in your README file. Steps on how to do this are in the README file use and work portfolio content section for adding text to documentation. Commits may take several minutes to sync.
+**Note**: If the **Visit Site** option does not appear, you will need to force a commit in your README file. Steps on how to do this are in the README file use and work portfolio content section for adding text to documentation. Commits may take several minutes to sync.
+
+# README file use and work portfolio content
+README file is the foundation for the GitHub Pages itself. Markdown language acts as the copy to configure content from plain text documentation and embed images from your work by uploading files.
+
+## Add text documentation
+1. Navigate to **Your repositories** and select your newly-created repository.
+2. Click the **Pencil** icon to edit the README file.	
+3. Type your text with Markdown language to set up your content for employers to see.
+4. Select the **Preview** tab to see your work prior to publishing.
+5. Scroll to the bottom and select **Commit changes**. 
+
+ **Note**: It is optional to type a message about the changes made to your documentation.
+
+6. Navigate to your GitHub Pages site link to see the live changes. It may take several minutes to sync.
