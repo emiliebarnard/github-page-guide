@@ -12,8 +12,8 @@ title: Quick Start Guide
 - [Create a GitHub repository](#create-a-github-repository)
 + [Create a GitHub Pages site](create-a-github-pages-site)
 - [README file use and work portfolio content](readme-file-use-and-work-portfolio-content)
-    - [Add text documentation](add-text-documentation)
-    - [Insert images](insert-images)
+  - [Add text documentation](add-text-documentation)
+  - [Insert images](insert-images)
 + [Additional documentation](additional-documentation)
 
 - [Create a GitHub repository](#create-a-github-repository)
