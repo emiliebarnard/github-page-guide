@@ -21,7 +21,7 @@
 title: 'GitHub Pages - Quick Start Guide <br> For Work Portfolio Hosting'
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
- Learn to create a GitHub Page to host a work portfolio and feel confident and assured in showcasing your samples to future employers
+ Learn to create a GitHub Page to host a work portfolio and feel confident and assured in showcasing your samples to future employers <br> By [Jared Prewitt](https://github.com/SoulScrib), [Emilie Barnard](https://github.com/emiliebarnard), [Christa Mitchell](https://github.com/ChristaMitchell) 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://emiliebarnard.github.io/github-page-guide/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
