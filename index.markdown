@@ -10,12 +10,12 @@ title: Quick Start Guide
 
 # Navigation
 * [Create a GitHub repository](#create-a-github-repository)
-* [Create a GitHub Pages site](create-a-github-pages-site)
-* [README file use and work portfolio content](readme-file-use-and-work-portfolio-content)
-     * [Add text documentation](add-text-documentation)
-     * [Insert images](insert-images)
-* [Additional documentation](additional-documentation)
-<br>
+* [Create a GitHub Pages site](#create-a-github-pages-site)
+* [README file use and work portfolio content](#readme-file-use-and-work-portfolio-content)
+     * [Add text documentation](#add-text-documentation)
+     * [Insert images](#insert-images)
+* [Additional documentation](#additional-documentation)
+<br><br>
 
 # Create a GitHub repository
 A repository is a hosting location where README files as Markdown will store your content to host as a work portfolio.
@@ -35,7 +35,7 @@ A repository is a hosting location where README files as Markdown will store you
 2. Navigate to **Code and automation** on the left and select **Pages**.
 3. Under **GitHub Pages** select **Visit Site** and you’ll be redirected to your new website.
 
-**Note**: If the **Visit Site** option does not appear, you will need to force a commit in your README file. Steps on how to do this are in the [README file use and work portfolio content](readme-file-use-and-work-portfolio-content) section for adding text to documentation. Commits may take several minutes to sync.
+**Note**: If the **Visit Site** option does not appear, you will need to force a commit in your README file. Steps on how to do this are in the [README file use and work portfolio content](#readme-file-use-and-work-portfolio-content) section for adding text to documentation. Commits may take several minutes to sync.
 
 # README file use and work portfolio content
 README file is the foundation for the GitHub Pages itself. Markdown language acts as the copy to configure content from plain text documentation and embed images from your work by uploading files.
