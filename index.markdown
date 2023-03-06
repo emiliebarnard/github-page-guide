@@ -16,6 +16,7 @@ title: Quick Start Guide
      * [Insert images](insert-images)
 * [Additional documentation](additional-documentation)
 
+
 # Create a GitHub repository
 A repository is a hosting location where README files as Markdown will store your content to host as a work portfolio.
 1. Select **Your account** icon on the top right and choose **Your repositories**.
