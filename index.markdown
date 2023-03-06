@@ -10,16 +10,11 @@ title: Quick Start Guide
 
 # Navigation
 - [Create a GitHub repository](#create-a-github-repository)
-
-- [Create a GitHub Pages site](create-a-github-pages-site)
-
++ [Create a GitHub Pages site](create-a-github-pages-site)
 - [README file use and work portfolio content](readme-file-use-and-work-portfolio-content)
-
   - [Add text documentation](add-text-documentation)
-
   - [Insert images](insert-images)
-
-- [Additional documentation](additional-documentation)
++ [Additional documentation](additional-documentation)
 
 # Create a GitHub repository
 A repository is a hosting location where README files as Markdown will store your content to host as a work portfolio.
