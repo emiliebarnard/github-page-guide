@@ -14,6 +14,7 @@ title: Quick Start Guide
 - [README file use and work portfolio content](readme-file-use-and-work-portfolio-content)
   - [Add text documentation](add-text-documentation)
   - [Insert images](insert-images)
+
 + [Additional documentation](additional-documentation)
 
 - [Create a GitHub repository](#create-a-github-repository)
