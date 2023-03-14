@@ -72,11 +72,11 @@ README file is the foundation for the GitHub Pages itself. Markdown language act
 
 # View your GitHub Pages site
 **Disclaimer**: GitHub Pages creation and content changes can take several minutes to process. If you do not see your site link or see a 404-error message when visiting your GitHub Pages site, please wait for it to finish updating and try again.
-1. Select **Settings**.
+1. Select **Settings** in your repository.
 2. Navigate to **Code and automation** on the left and select **Pages**.
 3. Under **GitHub Pages** select **Visit Site** and you’ll be redirected to your new website.
 
-**Note**: If the **Visit Site** option does not appear, you will need to force a commit in your README file. Steps on how to do this are in the [README file use and work portfolio content](#readme-file-use-and-work-portfolio-content) section for adding text to documentation. Commits may take several minutes to sync.
+**Note**: If the **Visit Site** option does not appear, you will need to add text or an image to your README file first. Steps on how to do this are in the [README file use and work portfolio content](#readme-file-use-and-work-portfolio-content) section for adding text to documentation. Commits may take several minutes to sync.
 
 # Additional documentation
 * [Add more pages to your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#next-steps)
