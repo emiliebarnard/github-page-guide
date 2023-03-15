@@ -6,7 +6,7 @@ layout: default
 title: Quick Start Guide
 ---
 
-**Audience**: Intended for novice website creators looking to host their content on GitHub Page.
+**Audience**: Intended for novice website creators looking to host their content on GitHub Pages.
 
 **Prerequisites**:
 * A [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) is needed before a GitHub Pages site can be created.
