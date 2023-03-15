@@ -14,10 +14,10 @@ title: Quick Start Guide
 
 # Navigation
 * [Create a GitHub repository](#create-a-github-repository)
-* [Create a GitHub Pages site](#create-a-github-pages-site)
 * [README file use and work portfolio content](#readme-file-use-and-work-portfolio-content)
      * [Add text documentation](#add-text-documentation)
      * [Insert images](#insert-images)
+* [View your GitHub Pages site](#view-your-github-pages-site)
 * [Additional documentation](#additional-documentation)
 <br><br>
 
